@@ -1,0 +1,54 @@
+.obama{
+    padding-left:150px ;
+    padding-top: 100px;
+    display: flex;
+}
+.young{
+    font-size: 70px;
+    color: brown;
+}
+.star{
+    color: rgb(0, 0, 0);
+    font-weight: 150px;
+}
+.list{
+    color:rgb(108, 107, 107) ;
+}
+.obamanotwo{
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-right: 100px;
+    display: flex;
+}
+.obamathree{
+    padding-left: ;
+    padding-top:30px ;
+    padding-right: ;
+    padding-bottom:150px ;
+}
+.done{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.do{
+    padding-left: 100px;
+    font-size: 20px;
+}
+.one{
+    border: 0.5px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
+.two{
+    border: 0.5px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 30px;
+}
+.three{
+    border: 0.5px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 30px;
+}
